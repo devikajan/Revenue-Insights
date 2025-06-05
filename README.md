@@ -41,8 +41,6 @@ The dataset and business problem statement were provided by the **Codebasics You
 ## Files Included
 
 - `Revenue Insights Dashboard.pbix` – Power BI dashboard file  
-- `Metric Sheet.xlsx` – Metric calculations reference
-
 ---
 
 ## How to Use
